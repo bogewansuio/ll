@@ -1,4 +1,1 @@
-function A()
-122wertggfdfvgb
-dsfvgbcdfgh
-sdfbgc
+jinbo2b
